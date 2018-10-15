@@ -16,14 +16,13 @@ int main() {
 
     if (A > B) {
         if (A > C)
-            cout << "Bilangan terbesar adalah: " << A <<;
+            cout << "Bilangan terbesar adalah: " << A << endl;
         else
-            cout << "Bilangan terbesar adalah: " << C <<;
+            cout << "Bilangan terbesar adalah: " << C << endl;
     } else {
         if (B > C)
-            cout << "Bilangan terbesar adalah: " << B <<;
+            cout << "Bilangan terbesar adalah: " << B << endl;
         else
-            cout << "Bilangan terbesar adalah: " << C <<;
+            cout << "Bilangan terbesar adalah: " << C << endl;
     }
 }
-return()
