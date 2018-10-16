@@ -62,7 +62,7 @@ Hasilnya:
 
 **Flowchart Program**
 
-...
+![flowchart2](https://github.com/rumiumi/Praktikum2/blob/master/flowchart2.png)
 
 **Berikut Code Lengkapnya**
 ```
