@@ -47,6 +47,7 @@ int main() {
 ```
 
 Hasilnya:
+
 ![Hasil](https://github.com/rumiumi/Praktikum2/blob/master/hasil.PNG)
 
 ## Latihan 2: Menentukan Bilangan Terbesar dari 4 Bilangan
